@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main # change this to your branch
-  repo: ketalk2022/astro # 1、change this to your repo
+  repo: ketalk2022/Astro # 1、change this to your repo
   site_domain: cocolleen.eu.org # 2、change this to your domain
   base_url: https://cocolleen.eu.org # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
